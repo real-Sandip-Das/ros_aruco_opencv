@@ -2,8 +2,8 @@
 Changelog for package aruco_opencv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.2.0 (2024-04-02)
+------------------
 * Add an option to subscribe to compressed image topics. (`#28 <https://github.com/fictionlab/aruco_opencv/issues/28>`_)
 * Contributors: Ray Ferric
 
