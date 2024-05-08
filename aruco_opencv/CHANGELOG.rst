@@ -2,8 +2,8 @@
 Changelog for package aruco_opencv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+5.2.0 (2024-05-08)
+------------------
 * Use post-set parameters callback (`#41 <https://github.com/fictionlab/ros_aruco_opencv/issues/41>`_) (`#42 <https://github.com/fictionlab/ros_aruco_opencv/issues/42>`_)
 * Add missing detection parameters (backport `#38 <https://github.com/fictionlab/ros_aruco_opencv/issues/38>`_) (`#40 <https://github.com/fictionlab/ros_aruco_opencv/issues/40>`_)
   * Populate default aruco parameter values from OpenCV library
