@@ -2,6 +2,9 @@
 Changelog for package aruco_opencv_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 5.1.0 (2024-04-02)
 ------------------
 
